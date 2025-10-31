@@ -1,0 +1,32 @@
+.notifications-panel {
+  background-color: #1f2937;
+  padding: 1.5rem;
+  border-radius: 10px;
+  flex: 2;
+}
+
+.notifications-panel h2 {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.notification {
+  margin-bottom: 1rem;
+  background-color: #111827;
+  padding: 0.75rem;
+  border-radius: 6px;
+}
+
+.notification p {
+  font-size: 0.9rem;
+  color: #cbd5e1;
+  line-height: 1.4;
+}
+
+.ver-todas {
+  display: inline-block;
+  margin-top: 1rem;
+  color: #3b82f6;
+  text-decoration: none;
+  font-size: 0.9rem;
+}

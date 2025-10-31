@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  background-color: #0f1117;
+  color: white;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
